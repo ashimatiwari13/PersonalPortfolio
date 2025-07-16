@@ -30,8 +30,11 @@ Welcome to my **Frontend Portfolio** — a web-based showcase of my skills, inte
 
 portfolio/
 ├── index.html # Main layout and structure
+
 ├── style.css # Custom styles and animations
+
 ├── assets/ # Images and icons used
+
 └── README.md # This file
 
 ---
