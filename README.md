@@ -29,6 +29,7 @@ Welcome to my **Frontend Portfolio** — a web-based showcase of my skills, inte
 ## 📁 Structure Overview
 
 portfolio/
+
 ├── index.html # Main layout and structure
 
 ├── style.css # Custom styles and animations
